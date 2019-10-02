@@ -1,0 +1,6 @@
+framework module TapErrorReporting {
+  umbrella header "TapErrorReporting-umbrella.h"
+
+  export *
+  module * { export * }
+}

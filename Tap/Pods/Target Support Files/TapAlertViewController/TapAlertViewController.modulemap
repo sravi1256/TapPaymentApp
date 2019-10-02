@@ -1,0 +1,6 @@
+framework module TapAlertViewController {
+  umbrella header "TapAlertViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

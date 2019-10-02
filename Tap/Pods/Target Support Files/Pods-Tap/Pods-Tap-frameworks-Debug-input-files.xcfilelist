@@ -1,0 +1,27 @@
+${PODS_ROOT}/Target Support Files/Pods-Tap/Pods-Tap-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework
+${BUILT_PRODUCTS_DIR}/AlamofireObjectMapper/AlamofireObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/BrightFutures/BrightFutures.framework
+${PODS_ROOT}/CardIODynamic/Carthage/Build/iOS/CardIO.framework
+${BUILT_PRODUCTS_DIR}/EditableTextInsetsTextField/EditableTextInsetsTextField.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/RappleProgressHUD/RappleProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/TapAdditionsKit/TapAdditionsKit.framework
+${BUILT_PRODUCTS_DIR}/TapAlertViewController/TapAlertViewController.framework
+${BUILT_PRODUCTS_DIR}/TapApplication/TapApplication.framework
+${BUILT_PRODUCTS_DIR}/TapBundleLocalization/TapBundleLocalization.framework
+${BUILT_PRODUCTS_DIR}/TapCardValidator/TapCardValidator.framework
+${BUILT_PRODUCTS_DIR}/TapEditableView/TapEditableView.framework
+${BUILT_PRODUCTS_DIR}/TapErrorReporting/TapErrorReporting.framework
+${BUILT_PRODUCTS_DIR}/TapFontsKit/TapFontsKit.framework
+${BUILT_PRODUCTS_DIR}/TapGLKit/TapGLKit.framework
+${BUILT_PRODUCTS_DIR}/TapKeychain/TapKeychain.framework
+${BUILT_PRODUCTS_DIR}/TapNetworkManager/TapNetworkManager.framework
+${BUILT_PRODUCTS_DIR}/TapNibView/TapNibView.framework
+${BUILT_PRODUCTS_DIR}/TapResponderChainInputView/TapResponderChainInputView.framework
+${BUILT_PRODUCTS_DIR}/TapSearchView/TapSearchView.framework
+${BUILT_PRODUCTS_DIR}/TapSwiftFixes/TapSwiftFixes.framework
+${BUILT_PRODUCTS_DIR}/TapVisualEffectView/TapVisualEffectView.framework
+${BUILT_PRODUCTS_DIR}/goSellSDK/goSellSDK.framework
